@@ -7,5 +7,8 @@ public class RunningSumOfOneDArray {
         }
 
         return input;
+
+        // TC = O(n)
+        // SC = O(1)
     }
 }
