@@ -1,7 +1,6 @@
-package com.practice.algorithms;
+package com.practice.algorithms.runningSumOfOneDArray;
 
 import org.junit.jupiter.api.Test;
-import com.practice.algorithms.runningSumOfOneDArray.RunningSumOfOneDArray;
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 public class RunningSumOfOneDArrayTest {
